@@ -1,6 +1,5 @@
 # Homework_ML
 
-```markdown
 ## 📚 Ветки репозитория
 
 ### 🔵 Base
@@ -18,4 +17,4 @@
 - **Research 3** — Linear Regression
 - **Research 5** — SVM
 - **Research 6** — Ensembles
-```
+
